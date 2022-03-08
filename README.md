@@ -10,7 +10,7 @@
 
 ## <a id="section-one"></a>1. Тема и целевая аудитория
 
-<div style="text-align: right"> <a href="https://github.com/DPeshkoff/technopark-highload-coursework#technopark-highload-coursework"><img src="./images/up.png" height="25px"></a> </div>
+[<img src="./images/up.png" height="25px" align="right">](#up)
 
 Тип сервиса: *newsfeed social networking service*. 
 
@@ -68,43 +68,43 @@
 
 ## <a id="section-two"></a>2. Расчет нагрузки
 
-<div style="text-align: right"> <a href="https://github.com/DPeshkoff/technopark-highload-coursework#technopark-highload-coursework"><img src="./images/up.png" height="25px"></a> </div>
+[<img src="./images/up.png" height="25px" align="right">](#up)
 
 <hr/>
 
 ## <a id="section-three"></a>3. Логическая схема
 
-<div style="text-align: right"> <a href="https://github.com/DPeshkoff/technopark-highload-coursework#technopark-highload-coursework"><img src="./images/up.png" height="25px"></a> </div>
+[<img src="./images/up.png" height="25px" align="right">](#up)
 
 <hr/>
 
 ## <a id="section-four"></a>4. Физическая схема
 
-<div style="text-align: right"> <a href="https://github.com/DPeshkoff/technopark-highload-coursework#technopark-highload-coursework"><img src="./images/up.png" height="25px"></a> </div>
+[<img src="./images/up.png" height="25px" align="right">](#up)
 
 <hr/>
 
 ## <a id="section-five"></a>5. Технологии
 
-<div style="text-align: right"> <a href="https://github.com/DPeshkoff/technopark-highload-coursework#technopark-highload-coursework"><img src="./images/up.png" height="25px"></a> </div>
+[<img src="./images/up.png" height="25px" align="right">](#up)
 
 <hr/>
 
 ## <a id="section-six"></a>6. Схема проекта
 
-<div style="text-align: right"> <a href="https://github.com/DPeshkoff/technopark-highload-coursework#technopark-highload-coursework"><img src="./images/up.png" height="25px"></a> </div>
+[<img src="./images/up.png" height="25px" align="right">](#up)
 
 <hr/>
 
 ## <a id="section-seven"></a>7. Список серверов
 
-<div style="text-align: right"> <a href="https://github.com/DPeshkoff/technopark-highload-coursework#technopark-highload-coursework"><img src="./images/up.png" height="25px"></a> </div>
+[<img src="./images/up.png" height="25px" align="right">](#up)
 
 <hr/>
 
 ## <a id="section-last"></a>Заключение
 
-<div style="text-align: right"> <a href="https://github.com/DPeshkoff/technopark-highload-coursework#technopark-highload-coursework"><img src="./images/up.png" height="25px"></a> </div>
+[<img src="./images/up.png" height="25px" align="right">](#up)
 
 <hr/>
 
@@ -124,7 +124,7 @@
 
 ## <a id="appendix-1"></a> Приложение А. Оценка роста ЦА социальной сети
 
-<div style="text-align: right"> <a href="https://github.com/DPeshkoff/technopark-highload-coursework#technopark-highload-coursework"><img src="./images/up.png" height="25px"></a> </div>
+[<img src="./images/up.png" height="25px" align="right">](#up)
 
 Был проведен анализ рынка стран СНГ и ближнего зарубежья, потенциально являющихся рынками для социальной сети.
 
@@ -150,6 +150,6 @@
 
 ## <a id="appendix-2"></a> Приложение Б. Оценка DAU
 
-<div style="text-align: right"> <a href="https://github.com/DPeshkoff/technopark-highload-coursework#technopark-highload-coursework"><img src="./images/up.png" height="25px"></a> </div>
+[<img src="./images/up.png" height="25px" align="right">](#up)
 
 [Ссылка на анализ](./data/dau-average.ipynb)
